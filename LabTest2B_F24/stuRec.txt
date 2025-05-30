@@ -1,0 +1,6 @@
+John      Smith     80 85 90
+Alice     Johnson   78 82 88
+Bob       Smith     92 89 91
+Charlie   Brown     85 87 84
+David     Smith     88 93 84
+Eve       White     91 92 93    
